@@ -1,0 +1,21 @@
+header{
+    background-color: lightpink;
+    color: aliceblue;
+}
+
+main{
+    background-color: lightgoldenrodyellow;
+}
+
+aside{
+    background-color: lightgray;
+}
+
+#contenedor{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+footer{
+    background-color: aquamarine;
+}
