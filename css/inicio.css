@@ -1,0 +1,5 @@
+.platilloinicio {
+  height: 500px;         /* Forzamos la altura */
+  width: 500px;           /* Que el ancho se ajuste proporcionalmente */
+  object-fit: cover;     /* Evita que la imagen se estire o se vea deforme */
+}
